@@ -72,6 +72,11 @@ public class ContactList {
         hme =  new HashMap<>();
         hmp =  new HashMap<>();
         addNewUser("praj","chu", "chunarkarprajwal@gmail.com", "9767810478");
+        addNewUser("raj","mal", "rajmal@gmail.com", "999999999");
+        addNewUser("varun","dhawan", "varundhawan@gmail.com", "9898989898");
+        addNewUser("Harshita","Bhargava", "BhargavaH@gmail.com", "9898989898");
+        addNewUser("Akash","Suresh", "SureshA@gmail.com", "9797979797");
+        addNewUser("Alam","Shah", "varundhawan@gmail.com", "9696969696");
 
     }
 
